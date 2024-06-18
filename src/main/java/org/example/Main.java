@@ -11,7 +11,7 @@ public class Main {
                 System.out.println("FizzBuzz");
             }
             else if (num % 5 == 0) {
-                System.out.println(num+".buzz");
+                System.out.println(num+".Buzz");
             }
             else if (num % 3 == 0){
                 System.out.println(num+".Fizz");
